@@ -3,6 +3,7 @@
 </p>
 
 <h1>osTicket: Ticket Lifestyle Examples</h1>
+Create tickets as end user and solve them as help desk.
 
 <h1>Environments and Technologies Used</h1>
   - Microsoft Azure (Virtual Machines/Compute)<br>
