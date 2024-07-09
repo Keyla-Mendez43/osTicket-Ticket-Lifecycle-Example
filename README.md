@@ -5,9 +5,17 @@
 <h1>osTicket: Ticket Lifestyle Examples</h1>
 
 <h1>Environments and Technologies Used</h1>
+  - Microsoft Azure (Virtual Machines/Compute)
+  - Remote Desktop
+  - Internet Information Services (IIS)
 
 <h1>Operation System Used</h1>
+  - Windows 10(21H2)
 
 <h1>Ticket Lifecycle Stages</h1>
+  - Intake
+  - Assignment and Communication
+  - Working the Issue
+  - Resolution
 
 <h1>Lifecycle Stages</h1>
