@@ -28,3 +28,7 @@ In the image above, a ticket was created from an end user.
 ![image](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example/assets/174077223/4a5604f9-b813-4c03-bcf6-ad6b00030394)
 
 In the image above, another ticket was created through a different end user.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example/assets/174077223/32c3ef96-b72d-45bd-8c6b-5d5f529dcb98)
+
+In the image above, an SLA plan was created and priority was changed.
