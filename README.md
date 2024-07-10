@@ -20,3 +20,7 @@ Create tickets as end user and solve them as help desk.
   - Resolution<br>
 
 <h1>Lifecycle Stages</h1>
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example/assets/174077223/bc3b5192-de04-4b41-9c6c-442476a60a3e)
+
+In the image above, a ticket was created from an end user.
