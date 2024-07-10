@@ -24,3 +24,7 @@ Create tickets as end user and solve them as help desk.
 ![image](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example/assets/174077223/bc3b5192-de04-4b41-9c6c-442476a60a3e)
 
 In the image above, a ticket was created from an end user.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example/assets/174077223/4a5604f9-b813-4c03-bcf6-ad6b00030394)
+
+In the image above, another ticket was created through a different end user.
